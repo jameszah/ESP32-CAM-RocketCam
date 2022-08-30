@@ -1,5 +1,5 @@
 {
-  "name": "ESP32-CAM-RocketMan",
+  "name": "ESP32-CAM-RocketCam",
   "builds": [
     {
       "chipFamily": "ESP32",
