@@ -1,5 +1,7 @@
 {
   "name": "ESP32-CAM-RocketCam",
+  "funding_url": "https://ko-fi.com/jameszah/",
+  "new_install_prompt_erase": true,
   "builds": [
     {
       "chipFamily": "ESP32",
