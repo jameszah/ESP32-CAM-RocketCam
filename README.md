@@ -2,10 +2,9 @@
 ESP32-CAM Video Recorder for Rockets with sensors for Altitude, Temperature, Acceleration
 
 
-
 <script
   type="module"
-  src="https://unpkg.com/esp-web-tools@8.0.1/dist/web/install-button.js?module"
+  src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"
 ></script>
 
 <esp-web-install-button
