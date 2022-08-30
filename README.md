@@ -15,8 +15,8 @@ ESP32-CAM Video Recorder for Rockets with sensors for Altitude, Temperature, Acc
 ></esp-web-install-button>
      
 <br>     
-SourceCode: https://github.com/jameszah/ESP32-CAM-RocketCam/  
-One-Click Installer: https://jameszah.github.io/ESP32-CAM-RocketCam/  
-James Zahary - Aug 28, 2022  
+SourceCode: https://github.com/jameszah/ESP32-CAM-RocketCam/    
+One-Click Installer: https://jameszah.github.io/ESP32-CAM-RocketCam/    
+James Zahary - Aug 28, 2022    
 Free coffee <a href="https://ko-fi.com/jameszah">https://ko-fi.com/jameszah/</a>
 
