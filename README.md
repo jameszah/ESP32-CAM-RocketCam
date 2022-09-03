@@ -15,6 +15,9 @@ This is set up by default to use AP mode, so you do not need a router.  The ESP3
 
 The recording parameters are set in the config.txt file on the sd card.   See https://github.com/jameszah/ESP32-CAM-Video-Recorder-junior for details.
 
+<img src="./RocketCam.png">
+<img src="./photo.jpg">
+
 
 SourceCode: <a href="https://github.com/jameszah/ESP32-CAM-RocketCam/">https://github.com/jameszah/ESP32-CAM-RocketCam/</a>       
         
