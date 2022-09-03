@@ -1,0 +1,176 @@
+15:37:22.383 -> rst:0x1 (POWERON_RESET),boot:0x12 (SPI_FAST_FLASH_BOOT)
+15:37:22.383 -> configsip: 0, SPIWP:0xee
+15:37:22.383 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+15:37:22.383 -> mode:DIO, clock div:1
+15:37:22.383 -> load:0x3fff0030,len:1344
+15:37:22.383 -> load:0x40078000,len:13864
+15:37:22.383 -> load:0x40080400,len:3608
+15:37:22.383 -> entry 0x400805f0
+15:37:23.177 -> 
+15:37:23.177 -> 
+15:37:23.177 -> ---
+15:37:23.177 ->                                     
+15:37:23.177 -> -------------------------------------
+15:37:23.177 -> ESP32-CAM-RocketCam v60.4.7.srt.4
+15:37:23.224 -> -------------------------------------
+15:37:23.224 -> setup, core 1, priority = 1
+15:37:23.224 -> --- reboot ------ because: ESP_RST_POWERON
+15:37:23.224 -> 
+15:37:23.224 -> I2C Scanner
+15:37:23.224 -> Scanning...
+15:37:23.224 -> I2C device found at address 0x53  !
+15:37:23.224 -> I2C device found at address 0x77  !
+15:37:23.224 -> done
+15:37:23.224 -> 
+15:37:23.224 -> ------------------------------------
+15:37:23.224 -> Sensor:       BMP085
+15:37:23.224 -> Driver Ver:   1
+15:37:23.224 -> Unique ID:    10085
+15:37:23.224 -> Max Value:    1100.00 hPa
+15:37:23.224 -> Min Value:    300.00 hPa
+15:37:23.224 -> Resolution:   0.01 hPa
+15:37:23.224 -> ------------------------------------
+15:37:23.271 -> Pressure:    887.71 hPa
+15:37:23.271 -> Temperature: 22.00 C
+15:37:23.271 -> Altitude:    1101.93 m
+15:37:23.271 -> 
+15:37:23.271 -> ------------------------------------
+15:37:23.271 -> Sensor:       ADXL345
+15:37:23.271 -> Driver Ver:   1
+15:37:23.271 -> Unique ID:    12345
+15:37:23.271 -> Max Value:    -156.91 m/s^2
+15:37:23.318 -> Min Value:    156.91 m/s^2
+15:37:23.318 -> Resolution:   0.04 m/s^2
+15:37:23.318 -> ------------------------------------
+15:37:23.318 -> 
+15:37:23.318 -> X: 0.12  Y: 0.35  Z: 9.89  m/s^2 
+15:37:23.784 -> Good settings in the EPROM 
+15:37:23.784 -> New File Group 8
+15:37:23.784 -> Writing to EPROM ...
+15:37:23.830 -> Mounting the SD card ...
+15:37:23.922 -> SD_MMC Begin: 1
+15:37:23.922 -> SD_MMC Card Type: SDHC
+15:37:23.922 -> SD_MMC Card Size: 30250MB
+15:37:23.922 -> Try to get parameters from config.txt ...
+15:37:23.922 -> Failed to open config.txt - writing a default
+15:37:23.970 -> =========   Data fram config.txt and defaults  =========
+15:37:23.970 -> Name desklens
+15:37:23.970 -> Framesize 11
+15:37:23.970 -> Quality 12
+15:37:23.970 -> Framesize config 13
+15:37:23.970 -> Quality config 5
+15:37:23.970 -> Buffers config 4
+15:37:23.970 -> Length 1800
+15:37:23.970 -> Interval 0
+15:37:23.970 -> Speedup 1
+15:37:23.970 -> Streamdelay 0
+15:37:23.970 -> Internet 5
+15:37:23.970 -> Zone len 3, GMT
+15:37:23.970 -> ssid ap
+15:37:23.970 -> pass mrpeanut
+15:37:23.970 -> >>>>>>>>>>>>>>>>>>>>> desklens_50
+15:37:23.970 -> >>>>>>>>>>>>>>>>>>>>> 2-gcF450jz60
+15:37:23.970 -> Creating logfile /desklens8.999.txt
+15:37:23.970 -> Setting up the camera ...
+15:37:23.970 -> Frame config 13, quality config 5, buffers config 4
+15:37:24.017 -> Before camera config ...Internal Total heap 291024, internal Free Heap 263796, SPIRam Total heap   4192107, SPIRam Free Heap   4165171
+15:37:24.203 -> After  camera config ...Internal Total heap 290704, internal Free Heap 226680, SPIRam Total heap   4192043, SPIRam Free Heap   2629107
+15:37:24.203 -> 
+15:37:24.203 -> Camera started correctly, Type is 26 (hex) of 9650, 7725, 2640, 3660, 5640
+15:37:24.203 -> 
+15:37:24.768 -> Pic, len=195249, new fb 3F8071CC
+15:37:24.768 -> Pic, len=24591, new fb 3F864DDC
+15:37:24.768 -> Pic, len=24442, new fb 3F8C29EC
+15:37:24.768 -> Pic, len=65212, new fb 3F9205FC
+15:37:24.862 -> Pic, len=39245, new fb 3F8071CC
+15:37:24.909 -> Pic, len=31123, new fb 3F864DDC
+15:37:25.002 -> Pic, len=30999, new fb 3F8071CC
+15:37:25.096 -> Pic, len=25800, new fb 3F864DDC
+15:37:25.190 -> Pic, len=25742, new fb 3F8071CC
+15:37:25.236 -> Pic, len=25915, new fb 3F864DDC
+15:37:25.283 -> End of setup ...Internal Total heap 290704, internal Free Heap 226680, SPIRam Total heap   4192043, SPIRam Free Heap   2629107
+15:37:25.283 -> Checking SD for available space ...
+15:37:25.283 -> Total space: 30238MB
+15:37:25.283 -> Used space: 0MB
+15:37:25.283 -> Nothing deleted, 0.0% disk full
+15:37:25.283 -> Creating the_camera_loop_task
+15:37:25.283 -> the camera loop, core 0, priority = 6
+15:37:25.377 -> the_sd_loop, core 1, priority = 4
+15:37:25.563 -> 
+15:37:25.563 -> 
+15:37:25.563 -> low prio streaming loop, core 1, priority = 3
+15:37:25.563 -> Starting the streaming
+15:37:25.610 ->   End of setup()
+15:37:25.610 -> 
+15:37:25.610 -> 
+15:37:25.610 -> Starting the wifi ...
+15:37:25.610 -> Setting AP (Access Point)…AP IP address: 192.168.4.1
+15:37:25.705 -> IP: 192.168.4.1
+15:37:25.705 ->  
+15:37:25.705 -> mDNS responder started 'desklens'
+15:37:25.705 -> The power save is : 0
+15:37:25.705 -> Starting Web Services ...
+15:37:25.705 -> http task prio: 5
+15:37:25.705 -> Camera http started
+15:37:25.705 -> http Stream task prio: 5
+15:37:25.705 -> Stream 81 http started
+15:37:25.705 -> http Stream task prio: 5
+15:37:25.705 -> Stream 82 http started
+15:37:26.266 -> 
+15:37:26.266 -> Start the avi ... at 3556
+15:37:26.266 -> Framesize 11, quality 12, length 1800 seconds
+15:37:26.266 -> 
+15:37:26.359 -> Starting an avi 
+15:37:26.359 -> File open: /desklens8.001.avi
+15:37:26.359 -> 
+15:37:26.359 -> Recording 1800 seconds.
+15:37:30.196 -> Frame     50, len  25678, extra     0, cam time      77,  sd time   80 -- 
+15:37:35.004 -> So far: 0110 frames, in    8.7 seconds, for last 100 frames: avg frame size   25.0 kb, 12.51 fps ...
+15:37:38.232 -> Frame    150, len  25550, extra     0, cam time      77,  sd time   23 -- 
+15:37:43.002 -> So far: 0210 frames, in   16.7 seconds, for last 100 frames: avg frame size   25.1 kb, 12.51 fps ...
+15:37:46.227 -> Frame    250, len  25743, extra     0, cam time      77,  sd time   22 -- 
+15:37:50.998 -> So far: 0310 frames, in   24.7 seconds, for last 100 frames: avg frame size   25.2 kb, 12.51 fps ...
+15:37:54.233 -> Frame    350, len  25665, extra     0, cam time      77,  sd time   23 -- 
+15:37:59.012 -> So far: 0410 frames, in   32.7 seconds, for last 100 frames: avg frame size   25.0 kb, 12.51 fps ...
+15:38:02.247 -> Frame    450, len  25590, extra     0, cam time      77,  sd time   78 -- 
+15:38:06.995 -> So far: 0510 frames, in   40.7 seconds, for last 100 frames: avg frame size   25.0 kb, 12.51 fps ...
+15:38:10.218 -> Frame    550, len  25496, extra     0, cam time      77,  sd time   27 -- 
+15:38:14.995 -> So far: 0610 frames, in   48.7 seconds, for last 100 frames: avg frame size   25.3 kb, 12.51 fps ...
+15:38:18.224 -> Frame    650, len  26193, extra     0, cam time      77,  sd time   24 -- 
+15:38:22.996 -> So far: 0710 frames, in   56.7 seconds, for last 100 frames: avg frame size   27.4 kb, 12.51 fps ...
+15:38:26.187 -> Frame    750, len  31481, extra     0, cam time      77,  sd time   28 -- 
+15:38:30.973 -> So far: 0810 frames, in   64.7 seconds, for last 100 frames: avg frame size   29.5 kb, 12.51 fps ...
+15:38:31.301 -> End the Avi
+15:38:31.348 -> End of avi - closing the files
+15:38:31.348 -> 
+15:38:31.348 -> *** Video recorded and saved ***
+15:38:31.348 -> 
+15:38:31.348 -> Recorded   815 frames in    64 seconds
+15:38:31.348 -> File size is 21683352 bytes
+15:38:31.348 -> Adjusted FPS is 12.54
+15:38:31.348 -> Max data rate is 345713 bytes/s
+15:38:31.348 -> Frame duration is 79733 us
+15:38:31.348 -> Average frame length is 26591 bytes
+15:38:31.348 -> Average picture time (ms) 74.22
+15:38:31.348 -> Average write time (ms)   34.94
+15:38:31.348 -> Normal jpg % 99.9
+15:38:31.348 -> Extend jpg % 0.0
+15:38:31.348 -> Bad    jpg % 0.00000
+15:38:31.348 -> Writng the index, 815 frames
+15:38:31.441 -> ---
+15:38:31.441 -> 
+15:38:31.441 -> waiting for cam      62543ms, 96.1%
+15:38:31.441 -> Time in camera       60486ms, 92.9%
+15:38:31.441 -> waiting for sd        2347ms,  3.6%
+15:38:31.441 -> Time in sd           28597ms, 43.9%
+15:38:31.441 -> web (core 1)             0ms,  0.0%
+15:38:31.441 -> web (core 0)             0ms,  0.0%
+15:38:31.441 -> time total           65089ms, 100.0%
+15:38:31.489 -> Total space: 30238MB
+15:38:31.489 -> Used space: 20MB
+15:38:31.489 -> Nothing deleted, 0.1% disk full
+15:38:31.489 -> End the avi at 68776.  It was 815 frames, 68776 ms at 12.54 fps...
+15:38:31.489 -> 
+15:38:31.489 -> 
+15:38:31.489 -> Disconnect Pin 12 from GND to start recording.
+15:38:31.489 -> 
