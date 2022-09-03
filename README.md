@@ -18,6 +18,9 @@ The recording parameters are set in the config.txt file on the sd card.   See ht
 <img src="./RocketCam.png">
 <img src="./photo.jpg">
 
+See here for a serial monitor startup - it starts with nothing on gpio12, and a clean empty sd card, and then gpio12 is grounded after about 1 minute.
+
+Serial startup <a href="./startup.txt">startup</a>    
 
 SourceCode: <a href="https://github.com/jameszah/ESP32-CAM-RocketCam/">https://github.com/jameszah/ESP32-CAM-RocketCam/</a>       
         
