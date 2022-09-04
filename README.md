@@ -22,6 +22,15 @@ See here for a serial monitor startup - it starts with nothing on gpio12, and a 
 
 Serial startup <a href="./startup.txt">startup</a>    
 
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>ESP-Web-Tool-Test</h1>
+    <script type="module" src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"></script>
+    <esp-web-install-button manifest="installer/manifest.json"></esp-web-install-button>
+</body>
+</html>
+
 SourceCode: <a href="https://github.com/jameszah/ESP32-CAM-RocketCam/">https://github.com/jameszah/ESP32-CAM-RocketCam/</a>       
         
      
