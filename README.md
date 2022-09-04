@@ -22,13 +22,16 @@ See here for a serial monitor startup - it starts with nothing on gpio12, and a 
 
 Serial startup <a href="./startup.txt">startup</a>    
 
-
-<h1>One Click Installer</h1>
-
 https://jameszah.github.io/ESP32-CAM-RocketCam/   
+
+<h2>One Click Installer 2.0.4 (doesn't work)</h2>
+
+
 
 <script type="module" src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"></script>   
 <esp-web-install-button manifest="installer/manifest.json"></esp-web-install-button>   
+
+<h2>One Click Installer 2.0.3 </h2>
 
 <script type="module" src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"></script>   
 <esp-web-install-button manifest="installer203/manifest.json"></esp-web-install-button>   
