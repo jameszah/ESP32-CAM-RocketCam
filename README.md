@@ -27,7 +27,7 @@ Serial startup <a href="./startup.txt">startup</a>
 
 https://jameszah.github.io/ESP32-CAM-RocketCam/   
 
-<script type="module" src="https://unpkg.com/esp-web-tools@8.0.6/dist/web/install-button.js?module"></script>   
+<script type="module" src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"></script>   
 <esp-web-install-button manifest="installer/manifest.json"></esp-web-install-button>   
 
 
