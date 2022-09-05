@@ -26,8 +26,6 @@ https://jameszah.github.io/ESP32-CAM-RocketCam/
 
 <h2>One Click Installer 2.0.4 (doesn't work)</h2>
 
-
-
 <script type="module" src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"></script>   
 <esp-web-install-button manifest="installer/manifest.json"></esp-web-install-button>   
 
@@ -35,6 +33,8 @@ https://jameszah.github.io/ESP32-CAM-RocketCam/
 
 <script type="module" src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"></script>   
 <esp-web-install-button manifest="installer203/manifest.json"></esp-web-install-button>   
+   
+    
 
 SourceCode: <a href="https://github.com/jameszah/ESP32-CAM-RocketCam/">https://github.com/jameszah/ESP32-CAM-RocketCam/</a>       
         
