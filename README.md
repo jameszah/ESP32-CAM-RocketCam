@@ -22,6 +22,10 @@ See here for a serial monitor startup - it starts with nothing on gpio12, and a 
 
 Serial startup <a href="./startup.txt">startup</a>    
 
+Lengthy Instruction for the One-Click-Downloader https://jameszah.github.io/ESP32-CAM-VideoCam/instruct
+
+You must run the downloader from the githib.io site:
+
 https://jameszah.github.io/ESP32-CAM-RocketCam/   
 
 <h2>One Click Installer 2.0.4 (doesn't work)</h2>
