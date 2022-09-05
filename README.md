@@ -26,7 +26,9 @@ Lengthy Instruction for the One-Click-Downloader https://jameszah.github.io/ESP3
 
 You must run the downloader from the githib.io site:
 
-https://jameszah.github.io/ESP32-CAM-RocketCam/   
+<a href="https://jameszah.github.io/ESP32-CAM-RocketCam/">(https://jameszah.github.io/ESP32-CAM-RocketCam/)</a>
+
+   
 
 <h2>One Click Installer 2.0.4 (doesn't work)</h2>
 
