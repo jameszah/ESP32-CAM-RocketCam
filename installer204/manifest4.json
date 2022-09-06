@@ -1,0 +1,12 @@
+{
+  "name": "ESP32-CAM-Video-Recorder-junior-60x.4.7.srt.4.ino",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "my_4mb.img", "offset": 0 }
+      ]
+    }
+  ]
+}
