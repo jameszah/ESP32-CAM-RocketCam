@@ -5,7 +5,7 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": srt4.ino.img.bin", "offset": 0 }
+        { "path": "srt4.ino.img.bin", "offset": 0 }
       ]
     }
   ]
