@@ -53,7 +53,7 @@ You must run the downloader from the githib.io site:
 
 <script type="module" src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"></script>   
 <esp-web-install-button manifest="installer204/manifest_orig.json"></esp-web-install-button>   
-       
+                                              
 
 SourceCode: <a href="https://github.com/jameszah/ESP32-CAM-RocketCam/">https://github.com/jameszah/ESP32-CAM-RocketCam/</a>       
         
