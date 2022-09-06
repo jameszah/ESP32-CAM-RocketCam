@@ -37,6 +37,8 @@ You must run the downloader from the githib.io site:
 
 <h2>One Click Installer - American Units</h2>
 
+<img src="./units.png">  
+  
 <script type="module" src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"></script>   
 <esp-web-install-button manifest="installer/manifesta.json"></esp-web-install-button>   
 
