@@ -28,7 +28,7 @@ You must run the downloader from the githib.io site:
 
 <a href="https://jameszah.github.io/ESP32-CAM-RocketCam/">(https://jameszah.github.io/ESP32-CAM-RocketCam/)</a>
 
-
+<!-- 
 <h2>One Click Installer 2.0.4 (3mb one image)</h2>
 
 <script type="module" src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"></script>   
@@ -43,6 +43,19 @@ You must run the downloader from the githib.io site:
 
 <script type="module" src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"></script>   
 <esp-web-install-button manifest="installer/manifest.json"></esp-web-install-button>   
+-->
+
+<h2>One Click Installer </h2>
+
+<script type="module" src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"></script>   
+<esp-web-install-button manifest="installer/manifest.json"></esp-web-install-button>   
+
+
+<h2>One Click Installer - American Units</h2>
+
+<script type="module" src="https://unpkg.com/esp-web-tools@9.0.3/dist/web/install-button.js?module"></script>   
+<esp-web-install-button manifest="installer/manifesta.json"></esp-web-install-button>   
+
 
 <h2>One Click Installer 2.0.3 </h2>
 
